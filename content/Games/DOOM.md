@@ -1,4 +1,6 @@
 ![[DOOM.png]]
+
+DOOM defined the beginning of First Person Shooters. It's music, vibes, art, and gameplay still hold up. A must play to understand how shooters came to be. 
 ## Status
 - [ ] Played
 

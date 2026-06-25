@@ -1,4 +1,6 @@
 ![[Final Fantasy VII.png]]
+
+Iconic character design on top of iconic characters and iconic music make this game into a must play. It's story and gameplay are great, and it's a must play to understand just how much it revolutionized the medium. 
 ## Status
 - [ ] Played
 

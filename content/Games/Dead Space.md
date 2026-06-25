@@ -1,4 +1,6 @@
 ![[Dead Space.png]]
+
+A truly gruesome game with creative mechanics that make it constantly tense and scary. An absolute legend of the horror genre. 
 ## Status
 - [ ] Played
 ## How to Play
@@ -11,3 +13,4 @@ Xbox 360
 Playstation 3
 
 ## Notes
+The remake seems to be pretty much 1:1 and a legitimate way to experience this for the first time.

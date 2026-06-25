@@ -1,4 +1,6 @@
 ![[Contra.png]]
+
+One of the very earliest run and gun games, this game is the beginning of a genre and good clean retro fun.
 ## Status
 - [ ] Played
 

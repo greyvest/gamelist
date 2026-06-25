@@ -1,4 +1,6 @@
 ![[Defender.png]]
+
+A fantastic and beautiful arcade game. One of the best of the era. 
 ## Status
 - [ ] Played
 

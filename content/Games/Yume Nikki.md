@@ -1,4 +1,6 @@
 ![[Yume Nikki.png]]
+
+A deeply sad and intimate Japaneese freeware game, it's very hard to talk about this game other than to say that it's a simple and heartbreaking portrayal of sadness.
 ## Status
 - [ ] Played
 

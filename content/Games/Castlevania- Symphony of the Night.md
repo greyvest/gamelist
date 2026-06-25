@@ -1,4 +1,6 @@
 ![[Castlevanie SOTN.png]]
+
+The definitive [[Metroidvania]], it took some of the groundwork laid by Metroid and the earlier Castlevania games and executed one of the most beautiful and fun to play games ever. It's castle is iconic, and it's secrets and exploration are deep and exquisitely well designed. 
 ## Status
 - [ ] Played
 

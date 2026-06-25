@@ -1,4 +1,6 @@
 ![[Bioshock.png]]
+
+A masterpiece in art design, storytelling, and bringing [[Immersive Sims]] to the main stream. Based heavily on Ayn Rand's Atlas Shrugged.
 ## Status
 - [ ] Played
 

@@ -1,4 +1,6 @@
 ![[Elden Ring.png]]
+
+A magnum opus, taking the combat and difficulty of Dark Souls and applying it to a masterfully created open world. Aesthetically awesome, brilliant music, great boss and world design, and a full realization of [[Fromsoft]]'s potential. 
 ## Status
 - [ ] Played
 

@@ -1,5 +1,7 @@
 ![[Asteroids.png]]
 
+Simple arcade fun, primitave in a pure way. 
+
 ## Status
 - [ ] Played
 

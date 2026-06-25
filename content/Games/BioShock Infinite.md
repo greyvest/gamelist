@@ -1,4 +1,6 @@
 ![[Bioshock Infinite.png]]
+
+The next [[Ken Levine]] game after [[BioShock]]. Bioshock Infinite puts more of a shooter emphasis on things while still creating an awesome world, with exciting gameplay and a great story. 
 ## Status
 - [ ] Played
 

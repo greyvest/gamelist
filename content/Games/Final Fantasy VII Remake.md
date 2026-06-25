@@ -1,4 +1,6 @@
 ![[Final Fantasy VII Remake.png]]
+
+Possibly the best JRPG of all time, this remake of one of the most iconic games of all time does everything possible to make that game look old and dusty ( in a good way). This is a masterpiece in modern art, rendering, gameplay, world and character (re)design, and rerecords the music to the highest possible quality. 
 ## Status
 - [ ] Played
 ## How to Play

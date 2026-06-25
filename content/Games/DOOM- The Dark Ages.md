@@ -1,4 +1,6 @@
 ![[DOOM The Dark Ages.png]]
+
+The Dark Ages concludes the trilogy with heavier, meatier hits and brings a medieval aesthetic to the reboot trilogy that fits the brutality. 
 ## Status
 - [ ] Played
 

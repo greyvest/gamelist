@@ -1,4 +1,6 @@
 ![[DOOM Eternal.png]]
+
+As a sequel to DOOM 2016, this game really does turn everything up to 11. It's brutally fast, it's meaner, it has more of everything that made that game great and becomes a true love letter to video games in the process. 
 ## Status
 - [ ] Played
 

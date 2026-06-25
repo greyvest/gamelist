@@ -1,4 +1,6 @@
 ![[Hades.png]]
+
+[[Supergiant]] games coming out party, this game takes everything that Rougelikes tried before and does it right. It's storytelling through the genre is genuinely groundbreaking, and it's aesthetic, writing, and gameplay are incredibly high quality. Possibly a best in genre. 
 ## Status
 - [ ] Played
 ## How to Play

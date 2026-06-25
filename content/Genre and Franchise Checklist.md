@@ -197,6 +197,35 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 <input type="checkbox"> Half Life
 </td>
 </table>
+##  Halo
+<table>
+<tr>
+<td align="center">
+<img src="Halo Combat Evolved.png" width="150"><br>
+<input type="checkbox">Halo : Combat Evolved
+</td>
+
+<td align="center">
+<img src="Halo 2.png" width="150"><br>
+<input type="checkbox"> Halo 2
+</td>
+
+<td align="center">
+<img src="Halo 3.png" width="150"><br>
+<input type="checkbox">Halo 3
+</td>
+
+<td align="center">
+<img src="Halo 3 ODST.png" width="150"><br>
+<input type="checkbox"> Halo 3 ODST
+</td>
+
+<td align="center">
+<img src="Halo Reach.png" width="150"><br>
+<input type="checkbox"> Halo Reach
+</td>
+
+</table>
 
 ##  Modern Shooters
 <table>
@@ -250,27 +279,27 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 <table>
 <tr>
 <td align="center">
-<img src="Pokemon Emerald.png" width="150"><br>
+<img src="Portal.png" width="150"><br>
 <input type="checkbox">Portal 1/2
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="Braid.png" width="150"><br>
 <input type="checkbox"> Braid
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="The Witness.png" width="150"><br>
 <input type="checkbox"> The Witness
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="Manifold Garden.png" width="150"><br>
 <input type="checkbox"> Manifold Garden
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="Baba is You.png" width="150"><br>
 <input type="checkbox"> Baba is You
 </td>
 </table>
@@ -280,12 +309,12 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 <tr>
 <td align="center">
 <img src="Pokemon Emerald.png" width="150"><br>
-<input type="checkbox">Resident Evil 2 Remake
+<input type="checkbox">Mega Man 2
 </td>
 
 <td align="center">
 <img src="Pokemon Fire Red.png" width="150"><br>
-<input type="checkbox"> Resident Evil
+<input type="checkbox"> Super Mario 3
 </td>
 
 <td align="center">
@@ -303,23 +332,28 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 <table>
 <tr>
 <td align="center">
-<img src="Pokemon Emerald.png" width="150"><br>
+<img src="Mirror's Edge.png" width="150"><br>
+<input type="checkbox">MIrror's Edge
+</td>
+<tr>
+<td align="center">
+<img src="Celeste.png" width="150"><br>
 <input type="checkbox">Celeste
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="Shovel Knight.png" width="150"><br>
 <input type="checkbox"> Shovel Knight
 </td>
 
 <td align="center">
 <img src="Pokemon Fire Red.png" width="150"><br>
-<input type="checkbox"> Dead Space
+<input type="checkbox"> Fez
 </td>
 
 <td align="center">
 <img src="Pokemon Fire Red.png" width="150"><br>
-<input type="checkbox"> Resident Evil
+<input type="checkbox"> Super Meatboy
 </td>
 </table>
 
@@ -347,27 +381,22 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 </td>
 </table>
 
-##  MMOs
+##  [[MMO RPG]]
 <table>
 <tr>
 <td align="center">
-<img src="Pokemon Emerald.png" width="150"><br>
+<img src="WOW.png" width="150"><br>
 <input type="checkbox">World of Warcraft
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="FFXIV.png" width="150"><br>
 <input type="checkbox"> Final Fantasy XIV
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="OSRS.png" width="150"><br>
 <input type="checkbox"> Old School Runescape
-</td>
-
-<td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
-<input type="checkbox"> Resident Evil
 </td>
 </table>
 
@@ -375,7 +404,7 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 <table>
 <tr>
 <td align="center">
-<img src="Pokemon Emerald.png" width="150"><br>
+<img src="Destiny 2.png" width="150"><br>
 <input type="checkbox">Destiny 2
 </td>
 
@@ -399,7 +428,7 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 <table>
 <tr>
 <td align="center">
-<img src="Pokemon Emerald.png" width="150"><br>
+<img src="Risk of Rain.png" width="150"><br>
 <input type="checkbox">Risk of Rain / Risk of Rain 2
 </td>
 
@@ -409,8 +438,8 @@ The Game Boy advance era seems the most quintessential way to experience the fra
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
-<input type="checkbox"> Dead Space
+<img src="Castle Crashers.png" width="150"><br>
+<input type="checkbox"> Castle Crashers
 </td>
 
 <td align="center">
@@ -495,12 +524,12 @@ Play one of these, but city is better
 <table>
 <tr>
 <td align="center">
-<img src="Pokemon Emerald.png" width="150"><br>
+<img src="Arkham Asylum.png" width="150"><br>
 <input type="checkbox">Batman : Arkham Asylum
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
+<img src="Arkham City.png" width="150"><br>
 <input type="checkbox"> Batman : Arkham City
 </td>
 </table>
@@ -509,12 +538,26 @@ Play one of these, but city is better
 <table>
 <tr>
 <td align="center">
-<img src="Pokemon Emerald.png" width="150"><br>
+<img src="Pony Island.png" width="150"><br>
 <input type="checkbox">Pony Island
 </td>
 
 <td align="center">
-<img src="Pokemon Fire Red.png" width="150"><br>
-<input type="checkbox"> Batman : Arkham City
+<img src="Hotline Miami.png" width="150"><br>
+<input type="checkbox"> Hotline Miami
+</td>
+</table>
+
+## Racing
+<table>
+<tr>
+<td align="center">
+<img src="Pony Island.png" width="150"><br>
+<input type="checkbox">Forza Horizon 6
+</td>
+
+<td align="center">
+<img src="Hotline Miami.png" width="150"><br>
+<input type="checkbox"> Burnout Paradise
 </td>
 </table>

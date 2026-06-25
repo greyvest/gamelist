@@ -1,5 +1,7 @@
 ![[Final Fantasy VI.png]]
 Perhaps the most beautiful game cover of all time. 
+
+Before the transition to [[Final Fantasy VII]]'s 3D, Final Fantasy VI really did hit the pinnacle of the genre's days in 2D Pixel art. It's well designed, deep, with a lot of variety in it's characters and a very expansive story that feels meaningful and personal. Fun and containing magnificent pixel art and music. 
 ## Status
 - [ ] Played
 
