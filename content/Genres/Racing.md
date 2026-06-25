@@ -1,0 +1,1 @@
+Racing games can generally be split up into a spectrum of "Sim" to "Arcade/Kart Racer". The 

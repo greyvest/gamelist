@@ -1,0 +1,3 @@
+- [Guilty Gear Strive](https://store.steampowered.com/app/1384160/GUILTY_GEAR_STRIVE/?curator_clanid=33025239) is the latest Guilty Gear offering, and extremely good. 
+- [Dragonball : FighterZ](https://store.steampowered.com/app/678950/DRAGON_BALL_FighterZ/) is awesome and captures Dragonball Z so well. 
+- [Persona 4 Arena Ultimax](https://store.steampowered.com/app/1602010/Persona_4_Arena_Ultimax/?curator_clanid=33025239) if you're looking to throw down with Persona Characters
