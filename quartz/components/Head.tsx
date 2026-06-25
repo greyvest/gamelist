@@ -97,6 +97,7 @@ export default (() => {
             return resource
           }
         })}
+        <script src={`${cfg.baseUrl ?? ""}/checkbox-persist.js`}></script>
       </head>
     )
   }
