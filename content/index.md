@@ -1,3 +1,6 @@
+---
+title: Game List
+---
 
 ## Foundational Era
 
